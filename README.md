@@ -1,6 +1,6 @@
 # Duunitori.fi Jobs Feed
 
-Extract structured data from [Duunitori.fi](https://Duunitori.fi) — structured job listings from Duunitori.fi — Finland's largest job board. Salary ranges, employment types, employer details, and 22,000+ active listings via free public API.
+Extract structured data from [Duunitori.fi](https://Duunitori.fi) — structured job listings from Duunitori.fi — Finland's largest job board. Salary ranges, employment types, employer details, and 22,000+ active listings.
 
 **[Run on Apify →](https://apify.com/blackfalcondata/duunitori-jobs-feed)**
 
